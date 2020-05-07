@@ -18,4 +18,4 @@ Tutorial requirements:
 
 Full tutorial URL: https://professoradamthomas.com/learning/php/php-introduction.html
 
-!(https://professoradamthomas.com/images/code-block.png)
+![Logo](https://professoradamthomas.com/images/code-block.png)
