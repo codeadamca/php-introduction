@@ -18,4 +18,6 @@ Tutorial requirements:
 
 Full tutorial URL: https://professoradamthomas.com/learning/php/php-introduction.html
 
+<a href="https://professoradamthomas.com">
 <img src="https://professoradamthomas.com/images/code-block.png" width="100">
+</a>
