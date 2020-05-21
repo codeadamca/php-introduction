@@ -16,8 +16,8 @@ Tutorial requirements:
 * Brackets (or any code editor) http://brackets.io/
 * Filezilla (or any FTP program) https://filezilla-project.org/
 
-Full tutorial URL: https://professoradamthomas.com/learning/php/php-introduction.html
+Full tutorial URL: https://codeadam.ca/learning/php/php-introduction.html
 
-<a href="https://professoradamthomas.com">
-<img src="https://professoradamthomas.com/images/code-block.png" width="100">
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
