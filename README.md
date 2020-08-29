@@ -11,15 +11,15 @@ echo '<p>Hello World!</p>';
 ?>
 ```
 
-Tutorial requirements:
+## Tutorial requirements:
 
-* Brackets (or any code editor) http://brackets.io/
-* Filezilla (or any FTP program) https://filezilla-project.org/
+* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Filezilla](https://filezilla-project.org/) (or any FTP program)
 
 ## Steps
 
 1. Open up a new file and name it intro.php
-2. Fill the intro.php file with the standard HTML tags (`DOCTYPE`, `html`, `head`, `body`, and `title`)
+2. Fill the intro.php file with the standard HTML tags (`doctype`, `html`, `head`, `body`, and `title`)
 3. Add a heading use an HTML `h1` tag
 4. In the `body` add an open and clode PHP tag (`<?php` and `?>`)
 5. Within the PHP tags use `echo` to display the message "Hello World"
