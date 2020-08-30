@@ -1,4 +1,5 @@
 # php-introduction
+
 A super basic introduction to PHP.
 
 This tutorial will review the purpose of using a server-side language such as PHP and walk through the process of creating and testing your first PHP file. Here is how you use PHP to display a "Hello World" message:
@@ -15,10 +16,10 @@ echo '<p>Hello World!</p>';
 
 1. Open up a new file and name it intro.php
 2. Fill the intro.php file with the standard HTML tags (`doctype`, `html`, `head`, `body`, and `title`)
-3. Add a heading use an HTML `h1` tag
-4. In the `body` add an open and clode PHP tag (`<?php` and `?>`)
+3. In the `body` add a heading using an HTML `h1` tag
+4. After the heading add an open and close PHP tag (`<?php` and `?>`)
 5. Within the PHP tags use `echo` to display the message "Hello World"
-6. Upload the PHP file to your server (or use your localhost) and test using a browser
+6. Upload the PHP file to your server (or use your localhost) and test using a browser and your domain name
 
 ## Tutorial requirements:
 
