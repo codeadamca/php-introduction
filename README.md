@@ -11,11 +11,6 @@ echo '<p>Hello World!</p>';
 ?>
 ```
 
-## Tutorial requirements:
-
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
-* [Filezilla](https://filezilla-project.org/) (or any FTP program)
-
 ## Steps
 
 1. Open up a new file and name it intro.php
@@ -24,6 +19,11 @@ echo '<p>Hello World!</p>';
 4. In the `body` add an open and clode PHP tag (`<?php` and `?>`)
 5. Within the PHP tags use `echo` to display the message "Hello World"
 6. Upload the PHP file to your server (or use your localhost) and test using a browser
+
+## Tutorial requirements:
+
+* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [Filezilla](https://filezilla-project.org/) (or any FTP program)
 
 Full tutorial URL: https://codeadam.ca/learning/php/php-introduction.html
 
