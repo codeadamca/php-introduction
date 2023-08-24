@@ -21,6 +21,9 @@ echo '<p>Hello World!</p>';
 5. Within the PHP tags use `echo` to display the message "Hello World".
 6. Upload the PHP file to your server (or use your localhost) and test using a browser and your domain name.
 
+> Full tutorial URL:  
+> https://codeadam.ca/learning/php-introduction.html
+
 ***
 
 ## Repo Resources
@@ -28,8 +31,6 @@ echo '<p>Hello World!</p>';
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Filezilla](https://filezilla-project.org/)
 * [PHP](https://php.net)
-
-> Full tutorial URL: https://codeadam.ca/learning/php-introduction.html
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
